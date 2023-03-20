@@ -1,0 +1,11 @@
+body {
+  background: yellowgreen;
+}
+
+#view-event {
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: auto;
+}
